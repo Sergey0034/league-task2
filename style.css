@@ -1,0 +1,56 @@
+.container-canvas {
+    position: relative;
+}
+
+canvas {
+    border: 1px solid #0079c2;
+}
+
+.lvl {
+    position: absolute;
+    font-size: 9px;
+    font-family: "Arial", sans-serif;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+
+#lvl-1 {
+    top: 116px;
+    left: 233px;
+    width: 42px;
+}
+
+#lvl-2 {
+    top: 158px;
+    left: 196px;
+    width: 115px;
+}
+
+#lvl-3 {
+    top: 213px;
+    left: 184px;
+    width: 137px;
+}
+
+#lvl-4 {
+    top: 262px;
+    left: 184px;
+    width: 137px;
+}
+
+#lvl-5 {
+    top: 320px;
+    left: 119px;
+    width: 280px;
+}
+
+#lvl-6 {
+    font-weight: bold;
+    font-family: 'Arial', sans-serif;
+    font-size: 14px;
+    top: 377px;
+    left: 78px;
+    width: 356px;
+    color: #0079c2;
+}
